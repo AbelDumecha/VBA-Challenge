@@ -1,4 +1,4 @@
-# VBA-Challenge
+
 Sub Stock_data_Part_I()
  
    Dim ws As Worksheet
